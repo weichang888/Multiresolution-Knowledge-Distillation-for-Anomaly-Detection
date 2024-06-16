@@ -1,0 +1,9 @@
+torch==1.6.0
+conda install torchvision==0.7.0 -c pytorch
+
+sklearn==0.0
+matplotlib==3.3.0
+PyYAML==5.3.1
+opencv-python==4.4.0.46
+scipy==1.5
+#3.9.17
