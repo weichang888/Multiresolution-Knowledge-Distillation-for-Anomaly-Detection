@@ -1,4 +1,4 @@
-# ML實作 Multiresolution Knowledge Distillation for Anomaly Detection
+# ML實作 - Multiresolution Knowledge Distillation for Anomaly Detection
 
 This repository contains code for training and evaluating the proposed method in our paper [Multiresolution Knowledge Distillation for Anomaly Detection](https://arxiv.org/pdf/2011.11108.pdf).
 
