@@ -19,7 +19,7 @@ If you find this useful for your research, please cite the following paper:
 
 ### 1- Clone this repo:
 ``` bash
-git clone https://github.com/Niousha12/Knowledge_Distillation_AD.git
+git clone https://github.com/weichang888/Multiresolution-Knowledge-Distillation-for-Anomaly-Detection.git
 cd Knowledge_Distillation_AD
 ```
 ### 2- Datsets:
